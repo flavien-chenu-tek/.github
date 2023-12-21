@@ -1,12 +1,28 @@
-## Hi there 👋
+# 📦 Epitech archives
 
-<!--
+This organization lists all repositories of [@flavien-chenu](https://github.com/flavien-chenu) Epitech projects.
+Found below, all projects listed and organized by modules and school years.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Enjoy 👋
+
+## Tek 1
+<details>
+  <summary>CPE</summary>
+
+  [Go to all projects repository ↗️]()
+  * [Day 01]()
+  * [Day 02]()
+  * [Day 03]()
+  * [Day 04]()
+  * [Day 05]()
+  * [Day 06]()
+  * [Day 07]()
+  * [Day 08]()
+  * [Day 09]()
+  * [Day 10]()
+  * [Day 12]()
+  * [Day 13]()
+</details>
+
+    
